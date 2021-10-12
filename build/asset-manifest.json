@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6550aaae.chunk.js",
+    "main.js.map": "/static/js/main.6550aaae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c84e4d52.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c84e4d52.js.map",
+    "static/js/2.8ea6d78c.chunk.js": "/static/js/2.8ea6d78c.chunk.js",
+    "static/js/2.8ea6d78c.chunk.js.map": "/static/js/2.8ea6d78c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.8ea6d78c.chunk.js.LICENSE.txt": "/static/js/2.8ea6d78c.chunk.js.LICENSE.txt",
+    "static/media/barrel.ae940e79.svg": "/static/media/barrel.ae940e79.svg",
+    "static/media/bottle.8db733a1.svg": "/static/media/bottle.8db733a1.svg",
+    "static/media/drink.35373980.svg": "/static/media/drink.35373980.svg",
+    "static/media/home.c7b19620.svg": "/static/media/home.c7b19620.svg",
+    "static/media/knowledge.7dd0cbda.svg": "/static/media/knowledge.7dd0cbda.svg",
+    "static/media/settings.bafdaede.svg": "/static/media/settings.bafdaede.svg",
+    "static/media/user.fdb94ec5.svg": "/static/media/user.fdb94ec5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c84e4d52.js",
+    "static/js/2.8ea6d78c.chunk.js",
+    "static/js/main.6550aaae.chunk.js"
+  ]
+}
